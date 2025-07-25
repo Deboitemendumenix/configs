@@ -10,6 +10,7 @@
   "modules-right": [
      "tray",
      "pulseaudio",
+     "bluetooth",
      "battery",
      "clock"
    ],
